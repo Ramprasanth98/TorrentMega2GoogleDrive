@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "forestcloud-333903",
+  "private_key_id": "7ad1518dcfd5198faa829ae6997dada3d78d4e87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDz2+GOWuaVY/cm\nvLfrqQJ7IJ9V+8ERdLXnp86lDJKfNhTxpABo3dDC88GiSJ0hmVaOuZCPvzszeFcG\n3I/xh3HFPeOSbPayaky9bk2J+KU0IyB31vBTSVzAmsYiU0sf5RIhYvgarzicE51R\nmlCYcMqhxF4e/Fvu4yNhJ80TcwZI9ZiCOvmiIOegpM5i3Lht2dDCgBpNmdoklzBd\nLWkoK8QzLXOePKKFDIFly/SfyzqToEBIABsNIJj8Dgx3Nvzp+WdjIYvs83rQa0u8\nVjyckBQCP/FSokXdW0KEvov4sx8hxJ9zSybUxAOo2dt93Fe6zsM8BTDU8ni9cqgO\nIDWKI0sNAgMBAAECggEAWj14DnHc+lNv1knn1bFJVb8Qt4TeQVNrLTqP4cvxRjGB\nNpp1/Fh5NGt3sFIms5RGz7IjqM4fXkCeE8/zBHIWy+LHIBxqfkOP+lmjH/d/Svfk\nv/QuIuP3Ct87iuA/4KGoP+qb3WQSEs+/W787K+4xTgOYwOaqLpCnOwC7hwL9xGlF\nBCA21aXWT0+LzqUGabFhMcpLUeJneX6oOWKmKDOSZxWb0fs4c99yDWIGdXHuYncb\nirwCUrICeofxvx8wCwN17tKPx/l00uVIqMhwsmg1rLL6lTg8Dlh1+33IRS55sGam\n3e4LPvHF6ozlKjcAtgFrcrPgOi+Ki36k8krvR9umkQKBgQD8eS6afinAbEEFgUF1\nDZ/EEL8V1oiVrcIT0oVzJbTAkhiHUyT2t9GKeLub1hUoR/bhIMqKz6IKd0tc+kfn\nf8T+WE1A7x7kOTmwjm2qoQGlu5XK6mUiNUyPxhV6ToxuJOsXDgzF8eMDdMR8fFw4\nJvr6R2OVzD4eju3Su0wO+vATnwKBgQD3Q+UHzZHGgEmoY282jbQWNA9/to2ZzHBZ\nN1G0HHTKg+fBcOR4gonRQQuTx42//4RntH5CxirxMFSbOw5A1uSOV/dPkS0/sPhQ\nVnk2M4jw3PkH4KwWtXqeGRrypDX89ZVvLpjZwtzlY2Lamljd86bYEfvOUEaFjiRj\n/Hu356CB0wKBgQCn1S7jyKacodn/fNM0qt/gCHneXITja2SupK3Nw+0KbpQbsWvL\nDpse/+9HQuNBqcU2FwRNjoVbi73vivktrUQZCD4iwlK4yEnPUn8YhHuB3tdO0s50\nFRZWJQm2Cm1T8vrMkqxvEcMlUwQi9NChC1if88EBnYpV6hGymouPEcVyZQKBgHxc\n15qfGAyghWt953emucbZFFqFtJ6AJpmYqy1Niqg4w52VbDP4Y9ytPGdtXKwOlceb\nDk4DYaHBTyxr/XU7H+U/9RE90WZRWfL+KyTJsryCR3Zg1+zsBenyco1LbiP2WNx8\nsUAFNBjjbdrI+p1XaLkQAnf4BCA0J7VqTcdnZmElAoGBALFJgiYLRHXY1Xo+fxTl\nMPDNPYHO6usu2xw/VZEK6YybZZ98MkERvCWbtylgsCLoNRAsirq+Fr9W7LO8zj2P\ntb88c+ZV/s0xgAKaewvU9uQL28OXah0KVv81WYETCW4BLVjxJoUXVaSNv/0z5HBv\nJdd2ie6mFOEJnT4raMCpns3d\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-aso2i41o0987sc2ptbul0gu1fk@forestcloud-333903.iam.gserviceaccount.com",
+  "client_id": "113254408236664274649",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-aso2i41o0987sc2ptbul0gu1fk%40forestcloud-333903.iam.gserviceaccount.com"
+}
